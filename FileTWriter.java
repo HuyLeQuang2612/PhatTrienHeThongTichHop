@@ -40,6 +40,12 @@ public class FileTWriter implements Runnable {
         t2.start();
         t3.start();
         
+<<<<<<< Updated upstream
         System.out.println("Done!");
 }
 }
+=======
+        System.out.println("Hoàn tất chương trình !!!");
+}
+}
+>>>>>>> Stashed changes
