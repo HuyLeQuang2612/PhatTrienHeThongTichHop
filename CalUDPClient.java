@@ -22,8 +22,7 @@ public class CalUDPClient {
         // tạo vòng lặp tránh say bye là "bye"
         while (true) {
   
-            System.out.print(
-                "Please enter the math:");
+            System.out.print("Please enter the math:");
             // Chờ nhập đầu vào
             String inp = sc.nextLine();
             buf = new byte[65535];
